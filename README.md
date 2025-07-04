@@ -40,7 +40,9 @@
 
 4. Built interactive dashboards in Power BI with slicers by gender, department, and region
 
-    Analysis & Findings
+
+![Image](https://github.com/Omotoso-Bukola/Palmora-Group-Hr-Analysis-Project/blob/main/My%20Bi%20Project%20Screenshot.png)
+
 
 ## Gender Representation
 
