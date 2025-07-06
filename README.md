@@ -1,11 +1,11 @@
-# Palmoria Group HR Equality Analysis.
+# Palmoria Group HR Analysis.
 
 ## An HR analytics report exploring gender disparities, salary equity, and performance fairness across regions.
 
 
 ## Overview
 
- This report was commissioned to support Palmoria Group’s efforts to address growing concerns around gender inequality, salary gaps, and regulatory compliance.
+ This report is to address growing concerns around gender inequality, salary gaps, and regulatory compliance.
 
  Using emp-data from internal sources, this report provides an analytical foundation to guide policy reform and HR decision-making.
 
@@ -15,15 +15,16 @@
 
  - Palmoria Group emp-data.csv: Employee records including gender, region, department, salary, and ratings
 
- - Palmoria Group Bonus Rules.xlsx: Guidelines for allocating bonus payments based on performance
+ - Palmoria Group Bonus mapping.xlsx: Guidelines for allocating bonus payments based on performance
 
 
 ## Tools Used:
 
-  Power BI for cleaning,dashboard design and DAX analysis
+  Excel for cleaning the Employee dataset by assigning a generic gender status for the undisclosed gender with N/A
+  Power BI for merging the two dataset,dashboard design and DAX analysis
 
 
-- Steps Taken:
+## Steps Taken:
 
 -  Cleaned the employee data:
 
@@ -58,26 +59,27 @@
   - Performance Ratings:
 
     Males are disproportionately present in higher performance brackets
-
     
 
 - Salary Structure
+  
 
   Gender pay gap is evident in at least 5 departments
+
 
 -  Minimum Wage Compliance
 
    A significant number of employees earn below $90,000
 
 
--  Bonus Allocation:
+##  Bonus Allocation:
 
    Bonus calculated using the predefined rating tiers
 
   High-performing employees receive significant bonus boosts, further increasing total disparity if ratings are biased
 
 
-- Interpretation:
+## Interpretation:
 
 These results highlight systemic HR issues:
 
@@ -89,9 +91,12 @@ Bonus policies that reward top performers but could amplify existing inequities
 
 
 
-- Bonus Rule Format
+## Bonus Rule Format
 
  Bonus rules were provided in Excel, not joined with the employee dataset, requiring a merge based on performance score
 
  Manual mapping and cleaning had to be done before applying rules
 
+## Author
+
+OMOTOSO BUKOLA
