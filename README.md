@@ -58,8 +58,6 @@ Using emp-data from internal sources, this report provides an analytical foundat
 
 
 
-![Image](https://github.com/Omotoso-Bukola/Palmora-Group-Hr-Analysis-Project/blob/main/My%20table%20screenshot.png)
-
 
 ## Gender Representation
   -  Males dominate the workforce in nearly all regions, and at least 5 departments
