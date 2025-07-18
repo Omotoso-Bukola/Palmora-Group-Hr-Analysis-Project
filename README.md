@@ -1,5 +1,4 @@
-# Palmoria Group HR Analysis.
-
+# Palmoria Group HR Analysis. 
 ### An HR analytics report exploring gender disparities, salary equity, and performance fairness across regions.
 
 
@@ -94,6 +93,8 @@ The palmoria Group aims to provide a comprehensive understanding of the company'
 
 To achieve the project objectives,this analysis will help tackle the gender equity and Pay gaps,By implementing the listed recommendations,Palmora group can position itself to make positive change,building a workplace that is fair ,productive, and promotes employee well-being.
 
+## THE LINK TO THE PROJECT FILE IS ATTACHED BELOW!
+  [Download](https://github.com/Omotoso-Bukola/Palmora-Group-Hr-Analysis-Project/commit/e15d526d2ada2aca4506fc86f4e0c6bbe55e6e14#diff-35b9e8e1daf3c1b2eb2aee206802e6593ac76f36af770979cfcfd8eb6b7c1058)
 
 
 ## Author
